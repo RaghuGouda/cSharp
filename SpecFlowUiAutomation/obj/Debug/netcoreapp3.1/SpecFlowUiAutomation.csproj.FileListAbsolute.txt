@@ -221,4 +221,3 @@ C:\Users\Raghu\cSharp\SpecFlowUiAutomation\obj\Debug\netcoreapp3.1\SpecFlowUiAut
 C:\Users\Raghu\cSharp\SpecFlowUiAutomation\obj\Debug\netcoreapp3.1\SpecFlowUiAutomation.dll
 C:\Users\Raghu\cSharp\SpecFlowUiAutomation\obj\Debug\netcoreapp3.1\SpecFlowUiAutomation.pdb
 C:\Users\Raghu\cSharp\SpecFlowUiAutomation\obj\Debug\netcoreapp3.1\SpecFlowUiAutomation.genruntimeconfig.cache
-C:\Users\Raghu\cSharp\SpecFlowUiAutomation\obj\Debug\netcoreapp3.1\SpecFlowUiAutomation.csprojAssemblyReference.cache

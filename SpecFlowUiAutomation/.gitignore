@@ -1,10 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿# Visual Studio temp something
+.vs/
 
-namespace SpecFlowUiAutomation
-{
-    class _
-    {
-    }
-}
+#####
+# End of core ignore list, below put you custom 'per project' settings (patterns or path)
+#####
+
+logs/*
+.idea/*
+
+bin/
+obj/
