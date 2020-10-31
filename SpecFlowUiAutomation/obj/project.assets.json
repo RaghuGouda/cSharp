@@ -6895,11 +6895,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raghu\\source\\repos\\SpecFlowUiAutomation\\SpecFlowUiAutomation\\SpecFlowUiAutomation.csproj",
+      "projectUniqueName": "C:\\Users\\Raghu\\cSharp\\SpecFlowUiAutomation\\SpecFlowUiAutomation.csproj",
       "projectName": "SpecFlowUiAutomation",
-      "projectPath": "C:\\Users\\Raghu\\source\\repos\\SpecFlowUiAutomation\\SpecFlowUiAutomation\\SpecFlowUiAutomation.csproj",
+      "projectPath": "C:\\Users\\Raghu\\cSharp\\SpecFlowUiAutomation\\SpecFlowUiAutomation.csproj",
       "packagesPath": "C:\\Users\\Raghu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raghu\\source\\repos\\SpecFlowUiAutomation\\SpecFlowUiAutomation\\obj\\",
+      "outputPath": "C:\\Users\\Raghu\\cSharp\\SpecFlowUiAutomation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raghu\\AppData\\Roaming\\NuGet\\NuGet.Config",
